@@ -35,8 +35,8 @@ header .menu a{
     transition: 200ms;
 }
 header .menu .ativa, header .menu a:hover{
-    color: #444;
-    background-color: white;
+    color: white;
+    background-color: blue;
 }
 .principal{
     height: 100vh;
